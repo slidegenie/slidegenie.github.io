@@ -30,8 +30,8 @@ const Header = () => {
           </Link>
         </nav>
         <div className="flex items-center space-x-4">
-          <Button variant="ghost" className="hidden md:inline-flex">Sign In</Button>
-          <Button variant="default" className="bg-brand-500 hover:bg-brand-600">Start Free</Button>
+          {/* <Button variant="ghost" className="hidden md:inline-flex">Sign In</Button>
+          <Button variant="default" className="bg-brand-500 hover:bg-brand-600">Start Free</Button> */}
         </div>
       </div>
     </header>
