@@ -13,7 +13,7 @@ const Header = () => {
               className="w-6 h-6"
             />
           </div>
-          <h1 className="text-xl font-display font-semibold text-foreground">SlideGenie</h1>
+          <h1 className="text-xl font-display font-semibold text-foreground">SlidesGenie</h1>
         </Link>
         <nav className="hidden md:flex items-center space-x-8">
           <Link to="/" className="text-foreground/80 hover:text-foreground transition-colors">

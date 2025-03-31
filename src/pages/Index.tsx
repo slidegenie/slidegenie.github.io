@@ -62,7 +62,7 @@ const Index = () => {
               Transform your data into <span className="text-brand-500">perfect Powerpoint slides</span> in seconds
             </h1>
             <p className="text-xl text-muted-foreground mb-10">
-              SlideGenie automatically generates beautiful PowerPoint charts from your data, saving you hours of manual work.
+              SlidesGenie automatically generates beautiful PowerPoint charts from your data, saving you hours of manual work.
             </p>
             <div className="mt-8 max-w-lg mx-auto">
               <p className="text-md text-muted-foreground mb-4">
@@ -95,7 +95,7 @@ const Index = () => {
             <iframe
               className="absolute inset-0 w-full h-full"
               src="https://www.youtube.com/embed/01GcKKgB4Bc?autoplay=1&mute=1&modestbranding=1&rel=0"
-              title="YouTube video player - SlideGenie Demo"
+              title="YouTube video player - SlidesGenie Demo"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
@@ -117,7 +117,7 @@ const Index = () => {
               Everything you need for perfect charts
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              SlideGenie combines powerful data handling with beautiful design to deliver presentation-ready charts.
+              SlidesGenie combines powerful data handling with beautiful design to deliver presentation-ready charts.
             </p>
           </div>
           
@@ -150,7 +150,7 @@ const Index = () => {
               Simple Process
             </div>
             <h2 className="text-3xl md:text-4xl font-display font-bold mb-6">
-              How SlideGenie works
+              How SlidesGenie works
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Create beautiful charts in three simple steps
@@ -188,7 +188,7 @@ const Index = () => {
                   Ready to create perfect charts?
                 </h2>
                 <p className="text-lg text-muted-foreground max-w-md">
-                  Join thousands of professionals who save hours every week with SlideGenie.
+                  Join thousands of professionals who save hours every week with SlidesGenie.
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
